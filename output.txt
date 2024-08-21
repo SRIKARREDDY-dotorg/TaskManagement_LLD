@@ -1,0 +1,23 @@
+Task ID: 1724259714643
+Task Title: Deployment of TMS
+Task Description: Work on the deployment of the changes
+Task Status: ASSIGNED
+Task Priority: 2
+Task Due Date: Fri Aug 23 22:31:54 IST 2024
+Task Assigned User: Reddy
+
+Task ID: 1724259714438
+Task Title: Code changes
+Task Description: Work on the code changes of task management system
+Task Status: IN_PROGRESS
+Task Priority: 1
+Task Due Date: Fri Aug 23 22:31:54 IST 2024
+Task Assigned User: Srikar
+
+Task ID: 1724259714438
+Task Title: Code changes
+Task Description: Work on the code changes of task management system
+Task Status: IN_PROGRESS
+Task Priority: 1
+Task Due Date: Fri Aug 23 22:31:54 IST 2024
+Task Assigned User: Reddy
